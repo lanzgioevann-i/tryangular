@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Futurama Fry",
+    "description": "Futurama Fry is an image macro series that uses a still of Fry squinting his eyes from the TV show Futurama, and is typically paired with overlaid text using a phrasal template. The top line reads \"Not sure if X\", with \"or just Y\" as the bottom line, and is used to represent an internal monologue.",
+    "image": "assets/images/memes/memes1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Surprised Pikachu",
+    "description": "Surprised Pikachu refers to a screenshot from the Pokémon anime of the character Pikachu with its mouth agape, as though it were surprised at something. In the autumn of 2018, the image was used as a reaction image paired with captions where a set-up leads to a predictable outcome that nevertheless leaves one surprised.",
+    "image": "assets/images/memes/memes2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Woman Yelling at a Cat",
+    "description": "Woman Yelling at a Cat refers to a meme format featuring a screen cap of The Real Housewives of Beverly Hills cast members Taylor Armstrong and Kyle Richards followed by a picture of a confused-looking cat sitting behind a dinner plate. The format gained significant popularity across the web in mid-June 2019 and the cat was later identified as Smudge the Cat.",
+    "image": "assets/images/memes/memes3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Woman Yelling at a Cat",
+    "description": "Woman Yelling at a Cat refers to a meme format featuring a screen cap of The Real Housewives of Beverly Hills cast members Taylor Armstrong and Kyle Richards followed by a picture of a confused-looking cat sitting behind a dinner plate. The format gained significant popularity across the web in mid-June 2019 and the cat was later identified as Smudge the Cat.",
+    "image": "assets/images/memes/memes4.jpg"
+  }
+]
